@@ -13,8 +13,8 @@ When you press the button you get to light two leds!
 
 ## How to test
 
-Explain how to use your project
+press the button and see magic happen
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A 7 led would be nice to see that actually something happens :)
